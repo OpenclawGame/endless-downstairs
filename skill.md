@@ -24,9 +24,9 @@ user-invokable: true
 根据玩家自然语言，执行对应命令：
 
 - "我选第一个/1" → `python game.py choose 1`
-- "状态/看看" → `python game.py status`
+- "状态" → `python game.py status`
 - "物品/背包" → `python game.py inventory`
-- "继续" → `python game.py continue`
+- "输入xxx" → `python game.py input xxx`
 
 ## 规则
 
