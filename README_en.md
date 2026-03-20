@@ -1,7 +1,6 @@
 ![Game Title](assets/title.png)
 
-A text-based adventure game built with Python<br>
-Also a skill! You can play with your AI assistant for a fun and unique experience!
+A text-based adventure game built with Python<br>Also a skill! You can play with your AI assistant for a fun and unique experience!
 
 ## Introduction
 
