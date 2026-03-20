@@ -45,6 +45,8 @@
 - 自己游玩
 
   ```bash
+  cd ./endless-downstairs
+
   # 开始新游戏
   python game.py new
 

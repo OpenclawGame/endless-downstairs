@@ -45,6 +45,8 @@ Your name is Peter<br>You're at a friend's place for a party. When it ends, it's
 - Play without AI
 
   ```bash
+  cd ./endless-downstairs
+
   # Start a new game
   python game.py new
 
