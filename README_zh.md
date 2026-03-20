@@ -1,5 +1,4 @@
-![游戏标题](assets/title.png)
-[🇨🇳 中文](README_zh.md) | [🇺🇸 English](README.md)<br>这是一款基于 Python 开发的文字冒险游戏<br>同时，这也是一个skill。你可以与你的AI助手一起游玩，尝试各种有趣的新奇体验！
+![游戏标题](assets/title.png)<br>[🇨🇳 中文](README_zh.md) | [🇺🇸 English](README.md)<br>这是一款基于 Python 开发的文字冒险游戏<br>同时，这也是一个skill。你可以与你的AI助手一起游玩，尝试各种有趣的新奇体验！
 ![演示](assets/demo.jpg)
 
 ## 简介
