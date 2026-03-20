@@ -32,13 +32,17 @@
   "sanity": 70,
   "sanity_max": 100,
   "debuffs": [],
-  "triggered_events": [],
-  "choice_history": [],
+  "triggered_events": [
+    "language_select"
+  ],
+  "choice_history": [
+    "[13F] English"
+  ],
   "floor_history": [],
   "pending_event_id": null,
-  "current_event_id": "language_select",
+  "current_event_id": "start_1",
   "game_over": false,
   "phase": 1,
   "knock_count": 1,
-  "language": "zh"
+  "language": "en"
 }
