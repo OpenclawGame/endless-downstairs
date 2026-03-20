@@ -7,13 +7,13 @@
 
 ## 安装
 
-- Openclaw
-  ```
+- 与你的AI助手一起游玩
+  ```bash
   npx skills add https://github.com/OpenclawGame/endless-downstairs.git
   ```
-- Claude
-  ```
-  npx skills add https://github.com/OpenclawGame/endless-downstairs.git
+- 自己游玩
+  ```bash
+  git clone https://github.com/OpenclawGame/endless-downstairs.git
   ```
 
 ## 开始游戏

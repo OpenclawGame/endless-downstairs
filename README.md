@@ -6,13 +6,13 @@ Your name is Peter<br>You're at a friend's place for a party. When it ends, it's
 
 ## Installation
 
-- Openclaw
-  ```
+- Play with your AI assistant
+  ```bash
   npx skills add https://github.com/OpenclawGame/endless-downstairs.git
   ```
-- Claude
-  ```
-  npx skills add https://github.com/OpenclawGame/endless-downstairs.git
+- Play without AI
+  ```bash
+  git clone https://github.com/OpenclawGame/endless-downstairs.git
   ```
 
 ## How to Play
