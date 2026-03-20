@@ -1,6 +1,5 @@
 ![Game Title](assets/title.png)
-[🇨🇳 中文](README_zh.md) | [🇺🇸 English](README.md)
-A text-based adventure game built with Python<br>Also a skill! You can play with your AI assistant for a fun and unique experience!
+[🇨🇳 中文](README_zh.md) | [🇺🇸 English](README.md)<br>A text-based adventure game built with Python<br>Also a skill! You can play with your AI assistant for a fun and unique experience!
 
 ## Introduction
 
