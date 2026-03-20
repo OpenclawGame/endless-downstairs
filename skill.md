@@ -1,3 +1,9 @@
+---
+name: endless-downstairs
+description: Endless Downstairs 文字冒险游戏 - 需要翻译玩家输入的文字，调用Python处理逻辑，向玩家返回结果。关键词：开始游戏、Endless Downstairs、无尽楼梯
+user-invokable: true
+---
+
 # Endless Downstairs
 
 这是一款文字冒险游戏
