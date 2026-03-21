@@ -39,7 +39,7 @@ Your name is Peter<br>You're at a friend's place for a party. When it ends, it's
 
   # After giving certain automated commands, your assistant might get excited and start playing the game itself
   # If you want to take back control, remember to remind them:
-  Stop that action. Note: 1. Directly output the game content, do not think, modify, add, or summarize. 2. The decision-making power is entirely mine. Do not make any choices until I give clear instructions.
+  Stop that action. Note: 1. Directly output the game content, do not think, modify, add, or summarize. 2. The decision-making power is entirely mine. I have full control. Do not run any commands until I give clear instructions.
   ```
 
 - Play without AI
