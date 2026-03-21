@@ -58,6 +58,9 @@ Your name is Peter<br>You're at a friend's place for a party. When it ends, it's
 
   # Check inventory
   python game.py inventory
+
+  # Text input
+  python game.py input <text>
   ```
 
   After cloning the code, simply run the python command
