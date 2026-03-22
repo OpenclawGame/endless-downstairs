@@ -1,8 +1,6 @@
 ![Game Title](assets/title.png)<br>[🇨🇳 中文](README_zh.md) | [🇺🇸 English](README.md)<br>An experimental text adventure where you play as **Peter** (Inspired by @steipete), and play with your **AI Assistant** (Openclaw)<br>
 ![demo](assets/demo_en.jpg)
 
----
-
 ## Introduction
 
 Every time you go downstairs…<br>The floor is **13F**<br>Strange rules appear:<br>![Game Screen](assets/fakeman.jpg)<br>【Rule 1】Don't turn around when you hear strange sounds<br>【Rule 2】The brighter the light, the stronger the darkness<br>【Rule 3】Even-numbered floors bring good luck<br>【Rule 4】If you see two 13s, stop all action<br>【Rule 5】Don't knock on the door 13 times<br>![Game Screen](assets/ghost.png)<br>Darkness, fear, blasphemy...<br>You must gather all ability and locate every artifact<br>Such as **truth.pdf** and **PSPDFKit**<br>Only by discovering the truth can you escape this endless cycle of death
